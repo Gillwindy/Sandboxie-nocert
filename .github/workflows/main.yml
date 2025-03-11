@@ -190,7 +190,7 @@ jobs:
             Installer/SbiePlus_x64/*
           retention-days: 60
 
-    Build_x86:
+  Build_x86:
     runs-on: windows-2019
     timeout-minutes: 45
 
