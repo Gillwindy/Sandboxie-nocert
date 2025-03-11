@@ -18,6 +18,18 @@ Sandboxie allows you to create virtually unlimited sandboxes and run them alone 
 
 **Note: This is a community fork that took place after the release of the Sandboxie source code and not the official continuation of the previous development (see the [project history](./README.md#-project-history) and [#2926](https://github.com/sandboxie-plus/Sandboxie/issues/2926)).**
 
+## license box
+```
+NAME: Any
+DATE: 01.01.3099
+TYPE: CONTRIBUTOR
+SOFTWARE: Sandboxie-Plus
+UPDATEKEY: AAAAAAAAA 
+SIGNATURE: AAAAAAAAA
+```
+## Usuage
+Please refer to [Here](https://github.com/lyc8503/Sandboxie-crack/)
+
 ## ⏬ Download
 
 [Latest Release](https://github.com/sandboxie-plus/Sandboxie/releases/latest)
@@ -174,10 +186,3 @@ If you find Sandboxie useful, then feel free to contribute through our [Contribu
 
 All translators are encouraged to look at the [Localization notes and tips](https://git.io/J9G19) before sending a translation.
 
-## Certfeild
-NAME: Any  //Any
-DATE: 01.01.3099  //Any
-TYPE: CONTRIBUTOR  //or PERSONAL-HUGE
-SOFTWARE: Sandboxie-Plus
-UPDATEKEY: AAAAAAAAA  //Any
-SIGNATURE: AAAAAAAAA  //Any
